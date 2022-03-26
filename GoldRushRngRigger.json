@@ -1,0 +1,7 @@
+{
+  "title": "GoldRushRngRigger",
+  "description": "An injectable to let you rig the RNG  vaules in gold rush",
+  "author": "Person4286",
+  "url": "https://github.com/botboy434/blooket/blob/master/GoldRushRngRIgger.json",
+  "scripts": [
+		"https://botboy434.github.io/blooket/blooket.js"
