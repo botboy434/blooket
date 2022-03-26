@@ -2,7 +2,7 @@
   "title": "GoldRushRngRigger",
   "description": "An injectable to let you rig the RNG  vaules in gold rush",
   "author": "Person4286",
-  "url": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/skipBoxOpenAnimation/injectable.json",
+  "url": "https://github.com/botboy434/blooket/blob/master/.js",
   "scripts": [
     "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/skipBoxOpenAnimation/setup.js",
 		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/skipBoxOpenAnimation/index.js"
